@@ -8,8 +8,7 @@ I'm currently a research associate at the BioRAI Lab, Nanyang Technological Univ
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Recently, I've been working on **AI reasoning models based on insights from neuroscience**. During my time at UTS Australia, I focused on Privacy-Preserving Deep Learning using Homomorphic Encryption to solve privacy problems in networking systems, including IoT and edge computing. Before this, I worked on the application of multimodal AI in cybersecurity, especially in blockchain networks.
 
 ## News
 
