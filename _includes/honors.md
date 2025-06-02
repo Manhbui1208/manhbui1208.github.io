@@ -1,6 +1,6 @@
 ## Mentors
 
-I’ve had the opportunity to learn from and work with the following mentors:
+In addition to the guidance from my supervisors, I’ve had the opportunity to learn from and work with the following mentors:
 
 <ul>
   <li><a href="https://hieunq95.github.io/" target="_blank">Dr. Nguyen Quang Hieu</a> – research advisor during my time at UTS</li>
