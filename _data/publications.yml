@@ -1,14 +1,13 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+  - title: Privacy-Preserving Cyberattack Detection in Blockchain-Based IoT Systems Using AI and Homomorphic Encryption
+    authors: <strong>Bui Duc Manh</strong>, Chi-Hieu Nguyen, Dinh Thai Hoang, Diep N. Nguyen, Ming Zeng, Quoc-Viet Pham
+    conference_short: IoTJ-2025
+    conference: IEEE Internet of Things Journal, 2025.
+    pdf: https://arxiv.org/pdf/2412.13522
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    image: ./assets/img/IOTJ2025.png
+    notes: Published 2025
 
   - title: "Homomorphic Encryption-Enabled Federated Learning for Privacy-Preserving Intrusion Detection in Resource-Constrained IoV Networks"
     authors: <strong>Bui Duc Manh</strong>, Chi-Hieu Nguyen, Dinh Thai Hoang, Diep N. Nguyen
