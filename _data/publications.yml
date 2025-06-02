@@ -15,6 +15,6 @@ main:
     conference_short: VTC2024-Fall
     conference: IEEE Vehicular Technology Conference <strong>(VTC)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2407.18503
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./manhvtc2024.bib
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/vtc2024.png
