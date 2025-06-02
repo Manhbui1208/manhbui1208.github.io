@@ -10,13 +10,11 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "Homomorphic Encryption-Enabled Federated Learning for Privacy-Preserving Intrusion Detection in Resource-Constrained IoV Networks"
+    authors: <strong>Bui Duc Manh</strong>, Chi-Hieu Nguyen, Dinh Thai Hoang, Diep N. Nguyen
+    conference_short: VTC2024-Fall
+    conference: IEEE Vehicular Technology Conference <strong>(VTC)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2407.18503
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
