@@ -1,0 +1,9 @@
+@ARTICLE{manhiotj2025,
+  author={Duc Manh, Bui and Nguyen, Chi-Hieu and Thai Hoang, Dinh and Nguyen, Diep N. and Zeng, Ming and Pham, Quoc-Viet},
+  journal={IEEE Internet of Things Journal}, 
+  title={Privacy-Preserving Cyberattack Detection in Blockchain-Based IoT Systems Using AI and Homomorphic Encryption}, 
+  year={2025},
+  volume={12},
+  number={11},
+  pages={16478-16492},
+  doi={10.1109/JIOT.2025.3535792}}
