@@ -6,7 +6,7 @@ main:
     conference: IEEE Internet of Things Journal, 2025.
     pdf: https://arxiv.org/pdf/2412.13522
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/IOTJ2025.png
+    image: ./assets/img/manhiotj2025.png
     notes: Published 2025
 
   - title: "Homomorphic Encryption-Enabled Federated Learning for Privacy-Preserving Intrusion Detection in Resource-Constrained IoV Networks"
