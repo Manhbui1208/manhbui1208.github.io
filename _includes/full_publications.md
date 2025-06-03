@@ -20,8 +20,7 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[C3] <strong>B. D. Manh</strong>, C. H. Nguyen, D. T. Hoang, and D. N. Nguyen, "A Lightweight Human Pose Estimation Approach for Edge Computing-
-Enabled Metaverse with Compressive Sensing,"  <i>IEEE Vehicular Technology Conference</i>, October 2024, Washington DC, USA.
+[C3] <strong>B. D. Manh</strong>, C. H. Nguyen, D. T. Hoang, and D. N. Nguyen, "Homomorphic Encryption-Enabled Federated Learning for Privacy-Preserving Intrusion Detection in Resource-Constrained IoV Networks,"  <i>IEEE Vehicular Technology Conference</i>, October 2024, Washington DC, USA.
 </autocolor></a></li>
 </ul>
 
