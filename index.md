@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm currently a research associate at the Bio-inspired AI and Robotics (BioRAI) Lab, Nanyang Technological University (NTU), Singapore, working with [Asst. Prof. Lin Wang](https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=en). Previously, I received my M.Sc. research degree from the University of Technology Sydney (UTS), Australia, in early 2025, where I worked under the supervision of [Assoc. Prof. Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/) and [Assoc. Prof. Diep Nguyen](https://sites.google.com/view/diep-n-nguyen/). Before that, in 2023, I obtained my B.Sc. degree in electronics and communication engineering from the Vietnam National University-University of Engineering and Technology (VNU-UET), Vietnam, supervised by [Dr. Tran Thi Thuy Quynh](https://scholar.google.com/citations?user=RH6V8ycAAAAJ&hl=vi&oi=ao). 
+I'm currently a research associate at the [Bio-inspired AI and Robotics (BioRAI) Lab](https://biorailab.github.io/), Nanyang Technological University (NTU), Singapore, working with [Asst. Prof. Lin Wang](https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=en). Previously, I received my M.Sc. research degree from the University of Technology Sydney (UTS), Australia, in early 2025, where I worked within [5G/6G Wireless Communications and IoT Networking Lab](https://www.uts.edu.au/research/centres/global-big-data-technologies-centre/our-research/iot-communications-and-networking/5g6g-wireless-communications-and-iot-networking-lab), specifically as part of the [AI for Mobile Edge Networks (AI4MEN) Group](https://sites.google.com/view/dinh-thai-hoang/research-group), under the supervision of [Assoc. Prof. Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/) and [Assoc. Prof. Diep Nguyen](https://sites.google.com/view/diep-n-nguyen/). Before that, in 2023, I obtained my B.Sc. degree in electronics and communication engineering from the Vietnam National University-University of Engineering and Technology (VNU-UET), Vietnam, supervised by [Dr. Tran Thi Thuy Quynh](https://scholar.google.com/citations?user=RH6V8ycAAAAJ&hl=vi&oi=ao). 
 
 ## Research Interests
 
@@ -16,6 +16,7 @@ Recently, I've been working on **AI reasoning models based on insights from neur
 - **[Jan. 2025]** Our paper "Privacy-Preserving Cyberattack Detection in Blockchain-Based IoT Systems Using AI and Homomorphic Encryption" is accepted to the IEEE Internet of Things Journal (Q1, IF=8.2).
 - **[Dec. 2024]** I successfully defended my M.Sc. thesis, entitled "Advanced Machine Learning for Privacy-Preserving Intrusion Detection in IoT Networks".
 - **[Jul. 2024]** Our paper "Homomorphic Encryption-Enabled Federated Learning for Privacy-Preserving Intrusion Detection in Resource-Constrained IoV Networks" is accepted to the IEEE Vehicular Technology Conference-Fall, Otc. 2024 (VTC2024-Fall).
+- **[Sep. 2023]** I start my M.Sc. research journey at UTS.
 
 {% include_relative _includes/publications.md %}
 
