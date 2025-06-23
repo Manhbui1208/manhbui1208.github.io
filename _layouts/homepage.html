@@ -54,18 +54,18 @@
         <br>
         {% endif %}
         {% if site.personal_email %}
-         <email style="display: block; margin-bottom: 0.5rem;">
-           <a href="mailto:{{ site.personal_email }}">
-             <i class="fas fa-envelope" style="margin-right: 0.3rem;"></i> {{ site.personal_email }}
-           </a>
-         </email>
+        <email style="display: block; margin-bottom: 0.5rem;">
+          <a href="mailto:{{ site.personal_email }}">
+            <em>Personal:</em> {{ site.personal_email }}
+          </a>
+        </email>
         {% endif %}
         {% if site.work_email %}
-         <email style="display: block;">
-           <a href="mailto:{{ site.work_email }}">
-             <i class="fas fa-briefcase" style="margin-right: 0.3rem;"></i> {{ site.work_email }}
-           </a>
-         </email>
+        <email style="display: block;">
+          <a href="mailto:{{ site.work_email }}">
+            <em>Work:</em> {{ site.work_email }}
+          </a>
+        </email>
         {% endif %}
 
         <br>
