@@ -53,8 +53,16 @@
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
-        {% if site.email %}
-        <email>{{ site.email }}</email>
+        {% if site.personal_email or site.work_email %}
+        <email>
+          {% if site.personal_email %}
+            <a href="mailto:{{ site.personal_email }}"><i class="fas fa-envelope"></i> {{ site.personal_email }}</a>
+          {% endif %}
+          {% if site.personal_email and site.work_email %} | {% endif %}
+          {% if site.work_email %}
+            <a href="mailto:{{ site.work_email }}"><i class="fas fa-briefcase"></i> {{ site.work_email }}</a>
+          {% endif %}
+        </email>
         {% endif %}
 
         <br>
