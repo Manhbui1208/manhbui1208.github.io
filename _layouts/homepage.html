@@ -54,8 +54,8 @@
         <br>
         {% endif %}
         {% if site.personal_email %}
-        <email style="display: block; margin-bottom: 0.5rem;">
-          <i class="fas fa-envelope" style="margin-right: 0.01rem; font-size: 0.9rem;"></i> <em>Personal:</em>
+        <email style="display: block; margin-bottom: 0.5rem; font-size: 0.8rem;">
+          <i class="fas fa-envelope" style="margin-right: 0.01rem;"></i> <em>Personal:</em>
           <a href="mailto:{{ site.personal_email }}" style="text-decoration: none; color: inherit;">
             {{ site.personal_email }}
           </a>
@@ -63,8 +63,8 @@
         {% endif %}
         
         {% if site.work_email %}
-        <email style="display: block;">
-          <i class="fas fa-briefcase" style="margin-right: 0.01rem; font-size: 0.9rem;"></i> <em>Work:</em>
+        <email style="display: block; font-size: 0.8rem;">
+          <i class="fas fa-briefcase" style="margin-right: 0.01rem;"></i> <em>Work:</em>
           <a href="mailto:{{ site.work_email }}" style="text-decoration: none; color: inherit;">
             {{ site.work_email }}
           </a>
