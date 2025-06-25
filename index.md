@@ -12,7 +12,7 @@ Recently, I've been working on **AI reasoning models based on insights from neur
 
 ## News
 
-- **[May. 2025]** I start to work in the BioRAI Lab, NTU as a research associate.
+- **[May. 2025]** I start to work in the BioRAI Lab, EEE, NTU as a Research Associate.
 - **[Jan. 2025]** Our paper "Privacy-Preserving Cyberattack Detection in Blockchain-Based IoT Systems Using AI and Homomorphic Encryption" is accepted to the IEEE Internet of Things Journal (Q1, IF=8.2).
 - **[Dec. 2024]** I successfully defended my M.Sc. thesis, entitled "Advanced Machine Learning for Privacy-Preserving Intrusion Detection in IoT Networks".
 - **[Jul. 2024]** Our paper "Homomorphic Encryption-Enabled Federated Learning for Privacy-Preserving Intrusion Detection in Resource-Constrained IoV Networks" is accepted to the IEEE Vehicular Technology Conference-Fall, Otc. 2024 (VTC2024-Fall).
