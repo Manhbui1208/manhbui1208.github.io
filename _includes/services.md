@@ -10,6 +10,8 @@
 <h4 style="margin:0 10px 0;">Teaching</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>Tutor (Lab Instructor) for IoT Security,UTS, 2024</li>
-  <li>Tutor (Lab Instructor) for Cybersecurity for Mobile Platform, UTS, 2024</li>
+  <li>Tutor (Lab Instructor) for <a href="https://coursehandbook.uts.edu.au/subject/2025/42037" target="_blank">
+      <strong>IoT Security (42037)</strong>
+    </a>,UTS, 2024-2025</li>
+  <li>Tutor (Lab Instructor) for Cybersecurity for Mobile Platforms (42036), UTS, 2024</li>
 </ul>
