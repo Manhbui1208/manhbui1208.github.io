@@ -1,10 +1,9 @@
-## Proffesional Services & Teaching
+## Proffesional Services
 
 <h4 style="margin:0 10px 0;">Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755"><autocolor>IEEE Transactions on Mobile Computing (TMC), 2025</autocolor></a></li>
-</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching</h4>
