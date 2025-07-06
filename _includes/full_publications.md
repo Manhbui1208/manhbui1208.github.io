@@ -1,4 +1,11 @@
 ## All Publications <a id="all-pub"></a>
+<!-- **************************************** Thesis start here **************************************** -->
+<h4 style="margin:0 10px 0;"> Theses</h4>
+<ul style="margin:0 0 5px;">
+<li><a><autocolor>
+<strong><i>Master's Thesis</i></strong>, "Advanced Machine Learning for Privacy-Preserving Intrusion Detection in IoT Networks" <a href="https://opus.lib.uts.edu.au/bitstream/10453/188070/1/thesis.pdf"> [pdf]</a>.
+</autocolor></a></li>
+</ul>
 
 <!-- **************************************** Journal start here **************************************** -->
 <h4 style="margin:0 10px 0;"> Journals</h4>
