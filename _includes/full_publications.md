@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;"> Preprints</h4>
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[P1] N. V. Duc ,<strong>B. D. Manh</strong>, Q. T. Luu, D. T. Hoang, N. V. Linh, and D. N. Nguyen, "Secure and Efficient UAV-Based Face Detection via Homomorphic Encryption and Edge Computing," 2025 <a href="https://arxiv.org/pdf/2507.09860"> [arxiv]</a>.
+[P1] N. V. Duc , <strong>B. D. Manh</strong>, Q. T. Luu, D. T. Hoang, N. V. Linh, and D. N. Nguyen, "Secure and Efficient UAV-Based Face Detection via Homomorphic Encryption and Edge Computing," 2025 <a href="https://arxiv.org/pdf/2507.09860"> [arxiv]</a>.
 </autocolor></a></li>
 </ul>
 
