@@ -56,12 +56,12 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[B2] <strong>B. D. Manh</strong>, N. Q. Hieu, D. T. Hoang, D. N. Nguyen, and E. Hossain, "Machine Learning or Cyber-Attack Detection in IoT Networks: An Overview," <i>Advanced Machine Learning for Cyber-Attack Detection in IoT Networks</i>, 2025, <a href="https://www.sciencedirect.com/science/article/abs/pii/B9780443290329000063"> [link]</a>.
+[B2] <strong>B. D. Manh</strong>, N. Q. Hieu, D. T. Hoang, D. N. Nguyen, and E. Hossain, "Machine Learning or Cyber-Attack Detection in IoT Networks: An Overview," <i>Advanced Machine Learning for Cyber-Attack Detection in IoT Networks</i>, 2025 <a href="https://www.sciencedirect.com/science/article/abs/pii/B9780443290329000063"> [link]</a>.
 </autocolor></a></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[B1] N. Q. Hieu, <strong>B. D. Manh</strong>, D. T. Hoang, D. N. Nguyen, and E. Hossain, "Challenges and Potential Research Directions for Machine Learning-based Cyber-Attack Detection in IoT Networks," <i>Advanced Machine Learning for Cyber-Attack Detection in IoT Networks</i>, 2025, <a href="https://www.sciencedirect.com/science/article/abs/pii/B978044329032900018X"> [link]</a>.
+[B1] N. Q. Hieu, <strong>B. D. Manh</strong>, D. T. Hoang, D. N. Nguyen, and E. Hossain, "Challenges and Potential Research Directions for Machine Learning-based Cyber-Attack Detection in IoT Networks," <i>Advanced Machine Learning for Cyber-Attack Detection in IoT Networks</i>, 2025 <a href="https://www.sciencedirect.com/science/article/abs/pii/B978044329032900018X"> [link]</a>.
 </autocolor></a></li>
 </ul>
