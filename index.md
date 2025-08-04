@@ -12,7 +12,7 @@ Before that, in 2023, I obtained my B.Sc. degree in electronics and communicatio
 
 ## Research Interests
 
-Recently, I've been working on **AI spatial reasoning based on insights from neuroscience**, focusing on **reinforcement learning alignment** and **3D memory for embodied agent**. During my time at UTS Australia, I focused on Privacy-Preserving Deep Learning using Homomorphic Encryption and Federated Learning to solve privacy problems in networking systems, including IoT and edge computing. Before this, at VNU-UET, I worked on the application of multimodal AI to blockchain security, with a focus on cyberattack detection at both the network layer and bytecode-level of the Ethereum system.
+Recently, I've been working on **AI spatial reasoning based on insights from neuroscience**, focusing on **Reinforcement Learning Alignment** and **3D Memory for Embodied Agent**. During my time at UTS Australia, I focused on Privacy-Preserving Deep Learning using Homomorphic Encryption and Federated Learning to solve privacy problems in networking systems, including IoT and edge computing. Before this, at VNU-UET, I worked on the application of multimodal AI to blockchain security, with a focus on cyberattack detection at both the network layer and bytecode-level of the Ethereum system.
 
 ## News
 
