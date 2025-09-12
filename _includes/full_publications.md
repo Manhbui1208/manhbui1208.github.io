@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;"> Preprints</h4>
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[P2] <strong>B. D. Manh</strong> <i>et al.</i> "Mind Meets Space: Rethinking Agentic Spatial Intelligence from a Neuroscience-inspired Perspective," 2025 </a> <a href="https://arxiv.org/abs/2509.09154"> [arxiv]</a>.
+[P2] <strong>B. D. Manh</strong> <i>et al.</i> "Mind Meets Space: Rethinking Agentic Spatial Intelligence from a Neuroscience-inspired Perspective," 2025 <a href="https://arxiv.org/abs/2509.09154"> [arxiv]</a>.
 </autocolor></a></li>
 </ul>
 <ul style="margin:0 0 5px;">
