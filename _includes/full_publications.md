@@ -30,7 +30,7 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[J1] <strong>B. D. Manh</strong>, C. H. Nguyen, D. T. Hoang, D. N. Nguyen, M. Zeng, and Q. V. Pham, "Privacy-preserving cyberattack detection in blockchain-based IoT systems using Ai and Homomorphic Encryption," <i>IEEE Internet of Things Journal </i>, vol. 12, no. 11, pp. 16478-16492, June 2025 (IF=8.2, Q1) <a href="https://ieeexplore.ieee.org/abstract/document/10856250"> [link]</a> <a href="https://arxiv.org/pdf/2412.13522"> [arxiv]</a>.
+[J1] <strong>B. D. Manh</strong>, C. H. Nguyen, D. T. Hoang, D. N. Nguyen, M. Zeng, and Q. V. Pham, "Privacy-preserving cyberattack detection in blockchain-based IoT systems using Ai and Homomorphic Encryption," <i>IEEE Internet of Things Journal </i>, vol. 12, no. 11, pp. 16478-16492, June 2025 (IF=8.9, Q1) <a href="https://ieeexplore.ieee.org/abstract/document/10856250"> [link]</a> <a href="https://arxiv.org/pdf/2412.13522"> [arxiv]</a>.
 </autocolor></a></li>
 </ul>
 
