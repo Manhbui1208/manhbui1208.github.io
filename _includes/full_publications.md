@@ -40,7 +40,7 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[C4] C. H. Nguyen<sup>*</sup>, <strong>B. D. Manh<sup>*</sup></strong>, D. T. Hoang, D. N. Nguyen, and L. Wang "PP-AICloud: Edge-Assisted Privacy-Preserving AI Inference with Homomorphic Encryption for Cloud-Based Mobile Services," In <i>Proceedings of The 31st Annual International Conference On Mobile Computing And Networking (ACM MobiCom '25)</i>, Accepted 2025.
+[C4] C. H. Nguyen<sup>*</sup>, <strong>B. D. Manh<sup>*</sup></strong>, D. T. Hoang, D. N. Nguyen, and L. Wang "PP-AICloud: Edge-Assisted Privacy-Preserving AI Inference with Homomorphic Encryption for Cloud-Based Mobile Services," In <i>Proceedings of The 31st Annual International Conference On Mobile Computing And Networking (ACM MobiCom '25)</i>, Accepted 2025 (*:equal contribution).
 </autocolor></a></li>
 </ul>
 
