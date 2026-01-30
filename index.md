@@ -7,7 +7,7 @@ I'm currently a Ph.D. Candidate at University of Technology Sydney (UTS), Austra
 
 Before this, I spent some time at Nanyang Technological University (NTU), Singapore, working as a Research Associate.
 
-In 2025, I received my M.Sc. research degree from UTS, working within the same research group and supervision.
+In 2025, I received my M.Sc. research degree from UTS, working within the same research group and supervision as my current Ph.D. study.
 Before that, in 2023, I obtained my B.Sc. degree in electronics and communication engineering from the Vietnam National University-University of Engineering and Technology (VNU-UET), Vietnam, supervised by [Dr. Tran Thi Thuy Quynh](https://scholar.google.com/citations?user=RH6V8ycAAAAJ&hl=vi&oi=ao). 
 
 ## Research Interests
