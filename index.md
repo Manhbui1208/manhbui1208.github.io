@@ -3,11 +3,11 @@ layout: homepage
 ---
 
 ## About Me
+I'm currently a Ph.D. Candidate at University of Technology Sydney (UTS), Australia, where I work within [5G/6G Wireless Communications and IoT Networking Lab](https://www.uts.edu.au/research/centres/global-big-data-technologies-centre/our-research/iot-communications-and-networking/5g6g-wireless-communications-and-iot-networking-lab), specifically as part of the [AI for Mobile Edge Networks (AI4MEN) Group](https://sites.google.com/view/dinh-thai-hoang/research-group), under the supervision of [Assoc. Prof. Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/) and [Assoc. Prof. Diep Nguyen](https://sites.google.com/view/diep-n-nguyen/).    
 
-I'm currently a Research Associate at the School of Electrical and Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore.
+Before this, I spent some time at Nanyang Technological University (NTU), Singapore, working as a Research Associate.
 
-Previously, in early 2025, I received my M.Sc. research degree from the University of Technology Sydney (UTS), Australia, where I worked within [5G/6G Wireless Communications and IoT Networking Lab](https://www.uts.edu.au/research/centres/global-big-data-technologies-centre/our-research/iot-communications-and-networking/5g6g-wireless-communications-and-iot-networking-lab), specifically as part of the [AI for Mobile Edge Networks (AI4MEN) Group](https://sites.google.com/view/dinh-thai-hoang/research-group), under the supervision of [Assoc. Prof. Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/) and [Assoc. Prof. Diep Nguyen](https://sites.google.com/view/diep-n-nguyen/). 
-
+In 2025, I received my M.Sc. research degree from the University of Technology Sydney (UTS), Australia
 Before that, in 2023, I obtained my B.Sc. degree in electronics and communication engineering from the Vietnam National University-University of Engineering and Technology (VNU-UET), Vietnam, supervised by [Dr. Tran Thi Thuy Quynh](https://scholar.google.com/citations?user=RH6V8ycAAAAJ&hl=vi&oi=ao). 
 
 ## Research Interests
