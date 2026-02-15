@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I'm currently a Ph.D. Candidate at University of Technology Sydney (UTS), Australia, where I work within [5G/6G Wireless Communications and IoT Networking Lab](https://www.uts.edu.au/research/centres/global-big-data-technologies-centre/our-research/iot-communications-and-networking/5g6g-wireless-communications-and-iot-networking-lab), specifically as part of the [AI for Mobile Edge Networks (AI4MEN) Group](https://sites.google.com/view/dinh-thai-hoang/research-group), under the supervision of [Assoc. Prof. Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/) and [Assoc. Prof. Diep Nguyen](https://sites.google.com/view/diep-n-nguyen/).    
+I'm currently a Ph.D. Candidate at University of Technology Sydney (UTS), Australia, where I work within [5G/6G Wireless Communications and IoT Networking Lab](https://www.uts.edu.au/research/centres/global-big-data-technologies-centre/our-research/iot-communications-and-networking/5g6g-wireless-communications-and-iot-networking-lab), specifically as part of the [AI for Mobile Edge Networks (AI4MEN) Group](https://sites.google.com/view/dinh-thai-hoang/research-group), under the supervision of [Prof. Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/) and [Prof. Diep Nguyen](https://sites.google.com/view/diep-n-nguyen/).    
 
 Before this, I spent some time at Nanyang Technological University (NTU), Singapore, working as a Research Associate.
 
