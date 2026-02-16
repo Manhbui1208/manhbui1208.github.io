@@ -12,7 +12,7 @@ Before that, in 2023, I obtained my B.Sc. degree in electronics and communicatio
 
 ## Research Interests
 
-Recently, I've been working on **AI reasoning models**, focusing on **Reinforcement Learning Post-Training**. During my time at UTS Australia, I focused on Privacy-Preserving Deep Learning using Homomorphic Encryption and Federated Learning to solve privacy problems in networking systems, including IoT and edge computing. Before this, at VNU-UET, I worked on the application of multimodal AI to blockchain security, with a focus on cyberattack detection at both the network layer and bytecode-level of the Ethereum system.
+Recently, I've been working on **Privacy-Preserving Deep Learning**, focusing on integrating Homomorphic Encryption (HE) and Secure Multi-party Computation (SMPC) to emerging deep learning models. Alongside this, I have a strong interest in fundamental deep learning, particularly on **Reinforcement Learning** and language models from a deeper theoretical perspective.
 
 ## News
 
