@@ -12,7 +12,7 @@ Before that, in 2023, I obtained my B.Sc. degree in electronics and communicatio
 
 ## Research Interests
 
-Recently, I've been working on **Privacy-Preserving Deep Learning**, focusing on integrating Homomorphic Encryption (HE) and Secure Multi-party Computation (SMPC) to emerging deep learning models. Alongside this, I have a strong interest in fundamental deep learning, particularly on **Reinforcement Learning** and language models from a deeper theoretical perspective.
+Recently, I've been working on **Privacy-Preserving Deep Learning**, focusing on integrating Homomorphic Encryption (HE) and Secure Multi-party Computation (SMPC) to emerging deep learning models. Alongside this, I have a strong interest in fundamental deep learning, particularly on **Reinforcement Learning** and **Language Models** from a deeper theoretical perspective.
 
 ## News
 
