@@ -405,15 +405,3 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
-
-@media screen and (max-width: 1200px) and (min-width: 768px) {
-  .sidebar {
-    width: 220px;
-    max-width: 220px;
-  }
-
-  .page {
-    width: calc(100% - 250px);
-    margin-left: 250px;
-  }
-}
