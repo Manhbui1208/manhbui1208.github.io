@@ -1,0 +1,66 @@
+#2026
+- title: "SBW 3.0: A Blockchain-Enabled Framework for Secure and Efficient Information Management in Web 3.0"
+  authors: "Md Arif Hassan, **Bui Duc Manh**, Cong T. Nguyen, Chi-Hieu Nguyen, Dinh Thai Hoang, Diep N. Nguyen *et al.*"
+  venue: "IEEE Transactions on Network and Service Management"
+  year: 2026
+  paper_url: ""
+  arxiv_url: ""
+  code_url: ""
+  blog_url: ""
+
+- title: "LLMind: Bio-inspired Training-free Adaptive Visual Representations for Vision-Language Models"
+  authors: "Soumyanatra Debnath, **Bui Duc Manh**, Zinan Liu, Lin Wang"
+  venue: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: 2026
+  paper_url: ""
+  arxiv_url: "https://arxiv.org/abs/2603.14882"
+  code_url: ""
+  blog_url: ""
+
+#2025
+- title: "Enabling technologies for Web 3.0: A comprehensive survey"
+  authors: "Md Arif Hassan, Mohammad Behdad Jamshidi, **Bui Duc Manh**, Nam H. Chu, Chi-Hieu Nguyen, Dinh Thai Hoang *et al.*"
+  venue: "Elsevier Computer Networks"
+  year: 2025
+  paper_url: ""
+  arxiv_url: "https://arxiv.org/abs/2401.10901"
+  code_url: ""
+  blog_url: ""
+
+- title: "Privacy-Preserving Cyberattack Detection in Blockchain-Based IoT Systems Using AI and Homomorphic Encryption"
+  authors: "**Bui Duc Manh**, Chi-Hieu Nguyen, Dinh Thai Hoang, Diep N. Nguyen, Ming Zeng, Quoc-Viet Pham "
+  venue: "IEEE Internet of Things Journal"
+  year: 2025
+  paper_url: "https://ieeexplore.ieee.org/abstract/document/10856250"
+  arxiv_url: "https://arxiv.org/abs/2412.13522"
+  code_url: ""
+  blog_url: ""
+
+- title: "PP-AICloud for Edge-Assisted Privacy-Preserving AI Inference with Homomorphic Encryption in Cloud-Based Mobile Services"
+  authors: "Chi-Hieu Nguyen, **Bui Duc Manh**, Dinh Thai Hoang, Diep N. Nguyen, Lin Wang"
+  venue: "ACM MobiCom Demos"
+  year: 2025
+  paper_url: "https://dl.acm.org/doi/abs/10.1145/3680207.3765578"
+  arxiv_url: ""
+  code_url: ""
+  blog_url: ""
+
+#2024
+- title: "Homomorphic Encryption-Enabled Federated Learning for Privacy-Preserving Intrusion Detection in Resource-Constrained IoV Networks"
+  authors: "**Bui Duc Manh**, Chi-Hieu Nguyen, Dinh Thai Hoang, Diep N. Nguyen"
+  venue: "IEEE Vehicular Technology Conference (VTC)"
+  year: 2024
+  paper_url: ""
+  arxiv_url: "https://arxiv.org/abs/2407.18503"
+  code_url: ""
+  blog_url: ""
+
+
+- title: "Towards Secure AI-Empowered Vehicular Networks: A Federated Learning Approach using Homomorphic Encryption"
+  authors: "Chi-Hieu Nguyen, **Bui Duc Manh**, Dinh Thai Hoang, Diep N. Nguyen, Eryk Dutkiewicz"
+  venue: "IEEE Vehicular Technology Conference (VTC)"
+  year: 2024
+  paper_url: "https://ieeexplore.ieee.org/abstract/document/10757744"
+  arxiv_url: ""
+  code_url: ""
+  blog_url: ""

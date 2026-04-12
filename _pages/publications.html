@@ -6,12 +6,53 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">The full up-to-date list of my articles can also be found on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+{% assign pubs_by_year = site.data.publications | sort: "year" | reverse %}
+{% assign current_year = "" %}
+
+{% for pub in pubs_by_year %}
+  {% if pub.year != current_year %}
+    {% assign current_year = pub.year %}
+    <h2 style="text-align: right; margin-top: 2.5rem;">{{ current_year }}</h2>
+    <hr />
+  {% endif %}
+
+  <div class="pub-item" style="display: flex; align-items: flex-start; gap: 0.8rem; margin-bottom: 2rem;">
+    <div style="font-size: 1.4rem; line-height: 1.2;">•</div>
+
+    <div style="flex: 1;">
+      <p style="margin: 0 0 0.35rem 0;">
+        <strong>{{ pub.title }}</strong>
+        {% if pub.paper_url and pub.paper_url != "" %}
+          [<a href="{{ pub.paper_url }}">paper</a>]
+        {% endif %}
+        {% if pub.arxiv_url and pub.arxiv_url != "" %}
+          [<a href="{{ pub.arxiv_url }}">arXiv</a>]
+        {% endif %}
+        {% if pub.code_url and pub.code_url != "" %}
+          [<a href="{{ pub.code_url }}">code</a>]
+        {% endif %}
+        {% if pub.blog_url and pub.blog_url != "" %}
+          [<a href="{{ pub.blog_url }}">blog</a>]
+        {% endif %}
+      </p>
+
+      <p style="margin: 0 0 0.35rem 0;">
+        {{ pub.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+      </p>
+
+      <p style="margin: 0;">
+        <em>{{ pub.venue }}, {{ pub.year }}</em>
+      </p>
+    </div>
+  </div>
+{% endfor %}
+
+<!-- New style rendering if publication categories are defined
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -30,7 +71,7 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %}
+{% endif %} -->
 
 
 

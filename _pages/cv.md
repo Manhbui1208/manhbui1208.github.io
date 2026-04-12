@@ -11,28 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Technology Sydney, 2026-Recent
+* M.Sc. in Computing Science (by Research), University of Technology Sydney, 2023-2025.
+* B.Sc. in Electronics and Wireless Communication, Vietnam National University-University of Engineering and Technology (VNU-UET), 2019-2023.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May/2025 - Dec/2025: Research Associate
+  * Nanyang Technological University
+  * 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep/2023 - May/2025: Research Assistant 
+  * University of Technology Sydney
+  * 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb/2022 - Jun/2023: UnderGrad Research Intern
+  * VNU-UET: Radio Communication Lab
+  * Developed a multimodal deep learning method, combining RNN and MLP to jointly process byte-level and
+network features in Blockchain networks
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
