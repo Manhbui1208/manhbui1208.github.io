@@ -323,3 +323,13 @@
     }
   }
 }
+
+@media (max-width: 768px) {
+  .author__avatar {
+    width: 70px !important;   /* từ 36px → 70px (vừa phải) */
+  }
+
+  .author__avatar img {
+    max-width: 70px !important;
+  }
+}
