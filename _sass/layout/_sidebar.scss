@@ -332,4 +332,35 @@
   .author__avatar img {
     max-width: 70px !important;
   }
+
+  .author__urls-wrapper button {
+    display: none !important;
+  }
+
+  .author__urls {
+    display: flex !important;
+    flex-wrap: wrap;
+    gap: 8px 14px;
+    position: static !important;
+    margin-top: 10px !important;
+    padding: 0 !important;
+    border: 0 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+  }
+
+  .author__urls:before,
+  .author__urls:after {
+    display: none !important;
+  }
+
+  .author__urls li {
+    white-space: nowrap !important;
+  }
+
+  .author__urls a {
+    display: inline-block !important;
+    padding: 4px 0 !important;
+    font-size: 15px !important;
+  }
 }
