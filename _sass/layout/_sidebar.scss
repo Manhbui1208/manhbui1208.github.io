@@ -325,36 +325,61 @@
 }
 
 @media (max-width: 768px) {
-  .author__avatar {
-    width: 72px !important;
+  .sidebar .author__avatar,
+  .sidebar .author__content,
+  .sidebar .author__urls-wrapper {
+    display: block !important;
+    width: auto !important;
+  }
+
+  .sidebar .author__avatar {
+    float: left;
+    width: 110px !important;
+    margin-right: 18px;
     vertical-align: top;
   }
 
-  .author__avatar img {
-    max-width: 72px !important;
+  .sidebar .author__avatar img {
+    width: 110px !important;
+    max-width: 110px !important;
+    height: auto;
   }
 
-  .author__content {
-    display: table-cell !important;
-    padding-left: 12px !important;
+  .sidebar .author__content {
+    overflow: hidden;
+    padding-left: 0 !important;
     padding-right: 0 !important;
+    line-height: 1.35;
   }
 
-  .author__urls-wrapper {
-    display: block !important;
-    width: 100% !important;
-    margin-top: 12px !important;
+  .sidebar .author__name {
+    margin: 0 0 8px 0 !important;
+    font-size: 2rem;
+    line-height: 1.1;
+    word-break: keep-all;
+    overflow-wrap: break-word;
   }
 
-  .author__urls-wrapper button {
+  .sidebar .author__bio,
+  .sidebar .author__pronouns {
+    margin: 0 0 10px 0 !important;
+    line-height: 1.45;
+  }
+
+  .sidebar .author__urls-wrapper {
+    overflow: hidden;
+    margin-top: 8px !important;
+    cursor: default;
+  }
+
+  .sidebar .author__urls-wrapper button {
     display: none !important;
   }
 
-  .author__urls {
+  .sidebar .author__urls {
     display: block !important;
     position: static !important;
-    margin-top: 0 !important;
-    margin-left: 84px !important;   
+    margin: 0 !important;
     padding: 0 !important;
     border: 0 !important;
     background: transparent !important;
@@ -362,18 +387,20 @@
     z-index: auto !important;
   }
 
-  .author__urls:before,
-  .author__urls:after {
+  .sidebar .author__urls:before,
+  .sidebar .author__urls:after {
     display: none !important;
   }
 
-  .author__urls li {
+  .sidebar .author__urls li {
     white-space: normal !important;
-    margin-bottom: 6px !important;
+    margin-bottom: 8px !important;
   }
 
-  .author__urls a {
-    font-size: 16px !important;
+  .sidebar .author__urls a {
+    display: block !important;
+    font-size: 1rem !important;
+    line-height: 1.4;
     padding: 0 !important;
   }
 }
