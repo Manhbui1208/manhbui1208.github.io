@@ -325,9 +325,11 @@
 }
 
 @media (max-width: 768px) {
-  .sidebar .author__avatar {
-  margin-top: 2px;
+  .sidebar {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
   }
+  .sidebar .author__avatar,
   .sidebar .author__content,
   .sidebar .author__urls-wrapper {
     display: block !important;
