@@ -17,18 +17,20 @@ Education
 
 Work experience
 ======
-* May/2025 - Dec/2025: Research Associate
-  * Nanyang Technological University
-  * 
+* University of Technology Sydney (Mar/2026 - Recent): Ph.D. Researcher
+  * Research on Privacy-Preserving Deep Learning and Foundation Models Post-Training
 
-* Sep/2023 - May/2025: Research Assistant 
-  * University of Technology Sydney
-  * 
+* Nanyang Technological University (May/2025 - Dec/2025): Research Associate
+  * Research on 3D Reasoning Models Post-Training 
+  * Familiar with Tinker, TRL
 
-* Feb/2022 - Jun/2023: UnderGrad Research Intern
-  * VNU-UET: Radio Communication Lab
-  * Developed a multimodal deep learning method, combining RNN and MLP to jointly process byte-level and
-network features in Blockchain networks
+* Australia-Vietnam Strategic Technologies Centre - UTS (Feb/2025 - May/2025): Research Engineer 
+  * Design and develop a demo for privacy-preserving machine learning in 5G edge computing
+
+* University of Technology Sydney (Sep/2023 - May/2025): M.Sc. Researcher - Research Assistant 
+  * Thesis: Advanced Machine Learning for Privacy-Preserving Intrusion Detection in IoT Networks
+  * Focus: Privacy-Preserving Machine Learning approaches for processing encrypted data without decryption. 
+  * Familiar with OpenFHE, Microsoft SEAL
   
 <!-- Skills
 ======
