@@ -413,3 +413,24 @@
   font-size: 0.9rem !important;
   }
 }
+
+@media screen and (min-width: 1024px) {
+  #main {
+    display: grid;
+    grid-template-columns: 240px minmax(0, 1fr);
+    column-gap: 2rem;
+    align-items: start;
+  }
+
+  .sidebar {
+    float: none !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    position: sticky !important;
+    top: 5rem;
+    height: fit-content !important;
+    overflow-y: visible !important;
+    padding-top: 0 !important;
+  }
+}

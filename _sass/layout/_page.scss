@@ -405,3 +405,22 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+@media screen and (min-width: 1024px) {
+  #main {
+    display: grid;
+    grid-template-columns: 240px minmax(0, 1fr);
+    column-gap: 2rem;
+    align-items: start;
+  }
+
+  .page {
+    float: none !important;
+    width: auto !important;
+    margin: 0 !important;
+  }
+
+  .page .page__inner-wrap {
+    width: 100%;
+  }
+}
