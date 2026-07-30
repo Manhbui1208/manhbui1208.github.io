@@ -12,20 +12,12 @@
   authors: "Soumyanatra Debnath, **Bui Duc Manh**, Zinan Liu, Lin Wang"
   venue: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
   year: 2026
-  paper_url: ""
+  paper_url: "https://openaccess.thecvf.com/content/CVPR2026/papers/Debnath_LLMind_Bio-inspired_Training-free_Adaptive_Visual_Representations_for_Vision-Language_Models_CVPR_2026_paper.pdf"
   arxiv_url: "https://arxiv.org/abs/2603.14882"
-  code_url: ""
-  blog_url: ""
+  code_url: "https://github.com/SoumyaratnaDebnath/LLMind-CVPR-2026"
+  blog_url: "https://empactlab.github.io/LLMind-CVPR-2026/"
 
 #2025
-- title: "Enabling technologies for Web 3.0: A comprehensive survey"
-  authors: "Md Arif Hassan, Mohammad Behdad Jamshidi, **Bui Duc Manh**, Nam H. Chu, Chi-Hieu Nguyen, Dinh Thai Hoang *et al.*"
-  venue: "Elsevier Computer Networks"
-  year: 2025
-  paper_url: ""
-  arxiv_url: "https://arxiv.org/abs/2401.10901"
-  code_url: ""
-  blog_url: ""
 
 - title: "Privacy-Preserving Cyberattack Detection in Blockchain-Based IoT Systems Using AI and Homomorphic Encryption"
   authors: "**Bui Duc Manh**, Chi-Hieu Nguyen, Dinh Thai Hoang, Diep N. Nguyen, Ming Zeng, Quoc-Viet Pham "
