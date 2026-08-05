@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm currently a Ph.D. Candidate at University of Technology Sydney (UTS), Australia, where I work within [AI for Mobile Edge Networks (AI4MEN) Group](https://sites.google.com/view/dinh-thai-hoang/research-group), under the supervision of [Prof. Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/) and [Prof. Diep Nguyen](https://sites.google.com/view/diep-n-nguyen/).    
+I'm currently a Ph.D. Candidate at University of Technology Sydney (UTS), Australia, where I work under the supervision of [Prof. Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/) and [Prof. Diep Nguyen](https://sites.google.com/view/diep-n-nguyen/). 
 
 Before this, I spent some time at Nanyang Technological University (NTU), Singapore, working as a Research&nbsp;Associate.
 
@@ -17,7 +17,7 @@ Before that, in 2023, I obtained my B.Sc. degree from VNU-UET, Vietnam, majoring
 
 Research Interests
 ------
-Recently, I've been working on **Privacy-Preserving Deep Learning**, focusing on integrating Homomorphic Encryption (HE) and Secure Multi-party Computation (SMPC) to emerging deep learning models. Alongside this, I have a strong interest in fundamental deep learning, particularly on **Reinforcement Learning** and **Foundation Models Post-Training** from a deeper theoretical perspective.
+Recently, I've been working on **Privacy-Preserving Deep Learning**, focusing on privacy risks and protections in deep learning models with Homomorphic Encryption (HE) and Differential Privacy (DP). Alongside this, I have a strong interest in fundamental deep learning, particularly on **Reinforcement Learning** and **Foundation Models Post-Training** from a deeper theoretical perspective.
 
 Selected Publications
 ------
