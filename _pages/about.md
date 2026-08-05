@@ -17,7 +17,7 @@ Before that, in 2023, I obtained my B.Sc. degree from VNU-UET, Vietnam, majoring
 
 Research Interests
 ------
-Recently, I've been working on **Privacy-Preserving Deep Learning**, focusing on privacy risks and protections in deep learning models with Homomorphic Encryption (HE) and Differential Privacy (DP). Alongside this, I have a strong interest in fundamental deep learning, particularly on **Reinforcement Learning** and **Foundation Models Post-Training** from a deeper theoretical perspective.
+Recently, I've been working on **Privacy-Preserving Deep Learning**, focusing on privacy alignment in deep learning models with Homomorphic Encryption (HE) and Differential Privacy (DP). Alongside this, I have a strong interest in fundamental deep learning, particularly on **Reinforcement Learning** and **Foundation Models Post-Training** from a deeper theoretical perspective.
 
 Selected Publications
 ------
